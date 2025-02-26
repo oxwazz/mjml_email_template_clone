@@ -1,0 +1,298 @@
+<mjml>
+  <mj-head>
+    <mj-preview>15 strategy titles in an exclusive deal! ⚔️🏹</mj-preview>
+    <mj-title>15 strategy titles in an exclusive deal! ⚔️🏹</mj-title>
+    <mj-font name="Open Sans" href="https://fonts.googleapis.com/css?family=Open+Sans"/>
+    <mj-attributes>
+      <mj-all padding="0"/>
+      <mj-all font-family="Open Sans"/>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#0F1217">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="10px" color="white" align="right" padding="10px 0">
+          |
+          <a href="#" style="text-decoration: none; color: white;">
+            See this email in your browser
+          </a>
+          |
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column border="5px solid #87B83F">
+        <mj-image href="#" alt="Header" src="./assets/header.gif" width="520px" padding="30px 10px 10px 10px"/>
+        <mj-text font-size="28px" color="#87b83f" align="center" font-weight="600" padding-top="25px">
+          Exclusive discount
+        </mj-text>
+        <mj-text font-size="20px" color="white" align="center" font-weight="600" padding-top="8px">
+          on 15 titles from
+        </mj-text>
+        <mj-text font-size="30px" color="white" align="center" font-weight="600" padding-top="8px">
+          Field of Glory series
+        </mj-text>
+        <mj-button href="#" font-size="14px" font-weight="600" background-color="#e70d00" color="white"
+                   padding-top="24px">
+          REDEEM DISCOUNT
+        </mj-button>
+        <mj-text font-size="12px" color="#c8c2c2" align="center" padding-top="8px">
+          Discount code: 8HN2W3KTFHR9TJUC4T
+        </mj-text>
+        <mj-text font-size="25px" color="white" align="center" padding-top="24px">
+          TIME LEFT:
+        </mj-text>
+        <mj-image href="#" alt="Countdown" src="./assets/countdown.gif" width="430px" padding="24px 20px 0 20px"/>
+        <mj-text font-size="16px" color="white" align="center" padding-top="24px" line-height="1.2" padding="0 20px">
+          Experience the thrill of historical warfare in an accurate simulator of battles. Delve into detailed military
+          strategies and rewrite history through immersive turn-based gameplay. Each DLC contains additional campaigns
+          and factions!
+        </mj-text>
+        <mj-table line-height="0" padding="20px 10px 0 10px">
+          <tr>
+            <td colspan="2">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-1.jpg"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-2.jpg"/>
+              </a>
+            </td>
+            <td>
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-3.jpg"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-4.jpg"/>
+              </a>
+            </td>
+            <td>
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-5.jpg"/>
+              </a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-6.jpg"/>
+              </a>
+            </td>
+            <td>
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-field-of-glory-ii-7.jpg"/>
+              </a>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="14px" color="white" align="center" padding-top="24px" line-height="1.2">
+          The code contains 15 titles, not all are shown here.
+          <br>
+          Please click "REDEEM DISCOUNT" to see all available titles.
+        </mj-text>
+        <mj-text font-size="10px" color="white" align="center" padding="24px 0" line-height="1.2">
+          Only GOG's newsletter subscribers are eligible for the discount.
+          <br>
+          This discount does not add up to other existing promotions.
+          <br>
+          The offer ends on February 28th, 2025, at 2 PM UTC.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column background-color="#0C062D" padding="24px 10px">
+        <mj-text font-size="24px" color="white" align="center" font-weight="600">
+          Psychological Promo
+        </mj-text>
+        <mj-text font-size="17px" color="white" align="center" padding-top="8px" line-height="1.2">
+          Step into the world where reality blurs. Mystery, tension, and dark secrets await. Face the unknown, question
+          what’s real—these psychological experiences will haunt you long after the game is over.
+        </mj-text>
+        <mj-button href="#" font-size="14px" font-weight="600" background-color="#e8006b" color="white"
+                   padding-top="20px">
+          VIEW DEALS
+        </mj-button>
+        <mj-table line-height="20px" cellpadding="3px" padding="20px 10px 0 10px">
+          <tr>
+            <td colspan="2" style="padding-bottom: 16px">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-tormented-souls.png"/>
+              </a>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -95%
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 16px">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-slay-the-princes.png"/>
+              </a>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -25%
+              </span>
+            </td>
+            <td style="padding-bottom: 16px">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-gabriel-knight.png"/>
+              </a>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -70%
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding-bottom: 16px">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-call-of-cthulhu.png"/>
+              </a>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -67%
+              </span>
+            </td>
+            <td style="padding-bottom: 16px">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-scorn.png"/>
+              </a>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -75%
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td colspan="2">
+              <a href="#">
+                <img alt="Game Thumbnail" width="100%" src="./assets/game-silent-hill-4-the-room.png"/>
+              </a>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -30%
+              </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="10px" color="#c8c2c2" align="center" padding-top="20px">
+          The offer ends on March 1st, 2025, at 8 AM UTC.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column background-color="#5102DB">
+        <mj-text font-size="24px" color="white" align="center" padding="12px 0" font-weight="600">
+          Git Gud Promo
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column padding="24px 10px">
+        <mj-text font-size="17px" color="white" align="center" line-height="1.2">
+          The bar in those games is set high. Are you ready to prove your skills?
+        </mj-text>
+        <mj-button href="#" font-size="14px" font-weight="600" background-color="#e8006b" color="white"
+                   padding-top="20px">
+          VIEW DEALS
+        </mj-button>
+        <mj-table line-height="20px" cellpadding="3px" padding="20px 10px 0 10px">
+          <tr>
+            <td style="padding-bottom: 16px">
+              <img alt="Game Thumbnail" width="100%" src="./assets/game-darkest-dungeon.png"/>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -85%
+              </span>
+            </td>
+            <td style="padding-bottom: 16px">
+              <img alt="Game Thumbnail" width="100%" src="./assets/game-batman.png"/>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -80%
+              </span>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <img alt="Game Thumbnail" width="100%" src="./assets/game-everspace.png"/>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -95%
+              </span>
+            </td>
+            <td>
+              <img alt="Game Thumbnail" width="100%" src="./assets/game-dead-cells.png"/>
+              <span
+                style="background-color: #5102db; color: white; font-size: 17px; font-weight: 600; padding: 0 10px;">
+                -40%
+              </span>
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text font-size="10px" color="#c8c2c2" align="center" padding-top="20px">
+          The offer ends on March 1st, 2025, at 8 AM UTC.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column background-color="#0C062D" padding="24px 10px">
+        <mj-text font-size="24px" color="white" align="center" font-weight="600">
+          The legend is back
+        </mj-text>
+        <mj-text font-size="17px" color="white" align="center" padding-top="8px" line-height="1.2">
+          Experience the original 2001 RPG classic fully rebuilt using current gen technology, preserving its iconic
+          atmosphere while enhancing the gameplay for a fluid and dynamic experience.
+        </mj-text>
+        <mj-button href="#" font-size="14px" font-weight="600" background-color="#e8006b" color="white"
+                   padding-top="20px">
+          PLAY NOW
+        </mj-button>
+        <mj-image href="#" alt="Game Thumbnail" src="./assets/game-gothic.png" padding-top="20px"/>
+        <mj-text font-size="10px" color="white" align="center" padding-top="20px">
+          Visit GOG for details on individual offers.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section>
+      <mj-column>
+        <mj-image href="#" alt="Footer" src="./assets/footer.jpg" padding-top="30px"/>
+
+        <mj-text font-size="10px" color="#838383" align="center" line-height="1.5" padding="30px 10px 0 10px">
+          You can <a href="#" target="_blank" style="color: #9672e0;">unsubscribe</a> if you
+          prefer not to receive newsletters from us.
+          <br>
+          You’re receiving this email because your address is on our subscriber list.
+          <br>
+          This email is for information purposes only and does not constitute an offer.
+          <br>
+          Specific pricing and discounts may be subject to change.
+        </mj-text>
+        <mj-text font-size="10px" color="#838383" align="center" line-height="1.5" padding="20px 10px 30px 10px">
+          Visit GOG.COM for details on individual offers.
+          <br>
+          GOG.COM © GOG sp. z o.o., ul.
+          <a href="#" target="_blank" style="color: #1155CC;">Jagiellońska 74, 03-301 Warsaw, Poland.</a>
+          <br>
+          Part of CD PROJEKT group. All rights reserved.
+          <br>
+          All trademarks are property of their respective owners.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
