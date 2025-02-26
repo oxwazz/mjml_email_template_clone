@@ -1,7 +1,7 @@
 <mjml>
   <mj-head>
-    <mj-preview>New reply to a comment on "we are open today | Supermarket Together</mj-preview>
-    <mj-title>New reply to a comment on "we are open today | Supermarket Together</mj-title>
+    <mj-preview>New reply to a comment on "we are open today | Supermarket Together"</mj-preview>
+    <mj-title>New reply to a comment on "we are open today | Supermarket Together"</mj-title>
     <mj-attributes>
       <mj-section padding="0"/>
     </mj-attributes>
@@ -9,7 +9,7 @@
   <mj-body>
     <mj-section>
       <mj-column>
-        <mj-image width="123px" src="/templates/youtube-reply/assets/youtube-logo.png" align="left"/>
+        <mj-image width="123px" src="./assets/youtube-logo.png" align="left"/>
         <mj-text font-size="16px" font-family="Roboto" color="#222222">
           🌟 @zestyp-00 replied to Muhammad Rahmahalim's comment
         </mj-text>
