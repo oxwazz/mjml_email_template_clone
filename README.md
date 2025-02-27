@@ -6,6 +6,7 @@ A collection of responsive and customizable email templates built using [MJML](h
 
 1. Youtube Reply - [Live Template](https://mjml.io/try-it-live/rWpKKd_rsY)
 2. GOG Exclusive Deals - [Live Template](https://mjml.io/try-it-live/YHUUGZOldl)
+2. Reddit News - [Live Template](#)
 
 ## 📬 Contact
 
