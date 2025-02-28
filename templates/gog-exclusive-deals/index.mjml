@@ -21,6 +21,12 @@
       </mj-column>
     </mj-section>
 
+    <mj-section padding-top="10px">
+      <mj-column>
+        <mj-image href="#" alt="Header Logo" src="./assets/header-logo.png"/>
+      </mj-column>
+    </mj-section>
+
     <mj-section>
       <mj-column border="5px solid #87B83F">
         <mj-image href="#" alt="Header" src="./assets/header.gif" width="520px" padding="30px 10px 10px 10px"/>
